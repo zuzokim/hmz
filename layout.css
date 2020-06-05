@@ -123,6 +123,7 @@ section{float:left;
               z-index:6}
 #faceleft img{width:300px;
               position:absolute;
+              top:25%;
               left:2%;}
 p{text-align:center;
   color:pink;
