@@ -113,10 +113,13 @@ section{float:left;
 #bymissingmay img{width:100%;}
 .jwjy::after{content:""; display:block; clear:both;}
 .jwjy li{float:left;
-          width:;
-          margin-left:30px;
+          width:49%;
+          margin-left:1%;
           margin-top:100px;}
-.jwjy li img{width:80%;}
+.jwjy li img{width:100%;}
+p{text-align:center;
+  color:pink;
+  margin-top:100px;}
 footer{width:100%;
       font-size:3px;
       color:#f4bbe8;
