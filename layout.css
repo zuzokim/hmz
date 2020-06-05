@@ -125,9 +125,9 @@ section{float:left;
               position:absolute;
               top:25%;
               left:2%;}
-p{text-align:center;
+p{
   color:pink;
-  margin-top:100px;}
+  margin-top:10px;}
 footer{width:100%;
       font-size:3px;
       color:#f4bbe8;
