@@ -110,6 +110,21 @@ section{float:left;
         z-index:6;
         line-height:20px;
         text-align:center;}
+#bymissingmay img{width:100%;}
+.jwjy::after{content:""; display:block; clear:both;}
+.jwjy li{float:left;
+          width:49%;
+          margin-left:1%;
+          margin-top:100px;}
+.jwjy li img{width:100%;}
+#faceright img{width:300px;
+                position:absolute;
+              left:63%;}
+#faceleft img{position:absolute;
+              left:2%;}
+p{text-align:center;
+  color:pink;
+  margin-top:100px;}
 footer{width:100%;
       font-size:3px;
       color:#f4bbe8;
