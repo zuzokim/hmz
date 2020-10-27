@@ -125,6 +125,10 @@ section{float:left;
               position:absolute;
               top:25%;
               left:2%;}
+#pya img{width:700px;
+              position:absolute;
+
+              left:9%;}
 p{
   color:pink;
   margin-top:10px;}
